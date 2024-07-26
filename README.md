@@ -8,15 +8,14 @@ I am a recent graduate with a profound interest in technology and a dedication t
 My journey in Information Technology has fueled a deep passion for cybersecurity. With a solid background in data analytics, software development, and IT support, I am confidently transitioning into the cybersecurity field. I am driven by the challenge of safeguarding digital assets and ensuring secure operations, and I am eager to contribute my skills and expertise to meaningful projects and initiatives.
 
 ## Skills
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Implemented encryption protocols and HTTPS for secure data handling          |<a href="https://img.shields.io/badge/-Secure%20COVID-19%20Testing%20Management%20System-007ACC?&style=for-the-badge&logo=security&logoColor=white">Secure COVID-19 Testing Management System</a> |
-| Network Traffic Monitoring and Attack Detection |<a href="https://img.shields.io/badge/-Secure%20COVID-19%20Testing%20Management%20System-007ACC?&style=for-the-badge&logo=security&logoColor=white">Secure COVID-19 Testing Management System</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/BreenMayega/Detection-lab/blob/main/README.md">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/BreenMayega/Detection-lab/blob/main/README.md">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab||
 
 ## Tools
 <img src="https://img.shields.io/badge/-XAMPP-FB7A24?&style=for-the-badge&logo=xampp&logoColor=white" />
