@@ -1,85 +1,100 @@
-# 🚀 Brian Mayega Portfolio
+🚀 Brian Mayega Portfolio
+🌐 Showcasing innovative software solutions and IT systems design.
 
-Welcome to my portfolio repository! This space showcases the projects I've worked on, highlighting my skills in **software development**, **IT systems**, and **web application creation**.
 
-## 🌟 Featured Projects
 
-### 1. [Online Railway Reservation System (ORRS)](./ORRS)
-**Description**: A system designed to streamline railway seat reservations, integrating an M-Pesa STK push payment system.
 
-- **Tech Stack**: PHP, JavaScript, MySQL, HTML, CSS.
-- **Key Features**:
-  - Secure seat booking system.
-  - Real-time seat availability updates.
-  - Integrated M-Pesa payment gateway.
 
----
 
-### 2. [Memo Management System (ODPP)](./MemoManagementSystem)
-**Description**: A management system for creating, organizing, and tracking memos at ODPP, developed using Google Apps Script.
+🌟 Featured Projects
+🛤 1. Online Railway Reservation System (ORRS)
+Description: A system designed to simplify railway seat reservations with integrated M-Pesa payment processing.
 
-- **Tech Stack**: Google Apps Script, JavaScript, HTML.
-- **Key Features**:
-  - User-friendly interface for memo creation.
-  - Integration of Material Icons, SVG illustrations, and modern design elements.
-  - Lightweight and responsive front-end.
+🛠️ Tech Stack:
 
----
 
-### 3. [Billing System](./BillingSystem)
-**Description**: A billing management system designed to streamline invoice creation, payments, and customer billing operations.
 
-- **Tech Stack**: PHP, MySQL, HTML, CSS, JavaScript.
-- **Key Features**:
-  - Generate itemized invoices with dynamic calculations.
-  - Manage customer profiles and payment records.
-  - Intuitive dashboard for tracking payments and outstanding balances.
+📌 Key Features:
 
----
+🔒 Secure seat booking system.
+🪑 Real-time seat availability updates.
+💳 Integrated M-Pesa payment gateway.
+🔗 Explore Project
 
-### 4. [Mathare Healthcare Booking System](./MathareHealthcare)
-**Description**: A healthcare management system enabling efficient booking and patient management.
+📝 2. Memo Management System (ODPP)
+Description: A responsive system for creating and organizing memos with modern UI components.
 
-- **Tech Stack**: PHP, MySQL, JavaScript.
-- **Key Features**:
-  - Intuitive booking interface.
-  - Secure database management.
-  - Automated notifications for users.
+🛠️ Tech Stack:
 
----
 
-### 5. [Tattiana Motors Management System](./TattianaMotors)
-**Description**: A vehicle sales management system with showroom and website functionalities.
 
-- **Tech Stack**: PHP, MySQL, HTML, CSS, Bootstrap.
-- **Key Features**:
-  - Searchable vehicle inventory.
-  - Intuitive UI/UX for vehicle showcase.
-  - Sales tracking and management.
+📌 Key Features:
 
----
+✍️ Create and track memos with ease.
+🎨 Uses Material Icons and SVG illustrations.
+⚡ Lightweight and fast-loading design.
+🔗 Explore Project
 
-## 📌 Other Notable Projects
-- **COVID-19 Testing Management System**: Streamlining test management processes.
-- **AutoQuest Pre-Owned Car Showroom System**: A modern solution for showcasing pre-owned cars.
-- **Remote IT Support System**: Supporting IT operations for government entities.
+💵 3. Billing System
+Description: A billing management platform for generating invoices and managing customer payments.
 
----
+🛠️ Tech Stack:
 
-## 🔧 Tools & Technologies
-- **Languages**: PHP, JavaScript, HTML, CSS, JSON.
-- **Frameworks**: Bootstrap.
-- **Database**: MySQL.
-- **Payment Integration**: M-Pesa STK Push.
 
----
 
-## 👨‍💻 About Me
-Hi, I'm Brian Mayega, a passionate **IT enthusiast** specialising in developing practical software solutions. I'm currently pursuing a Bachelor's degree in **Information Technology** at the **University of the People**.
+📌 Key Features:
 
----
+🧾 Dynamic invoice generation.
+📂 Customer profile and payment record management.
+📊 Dashboard for tracking balances.
+🔗 Explore Project
 
-## 📫 Contact
-- **Email**: TATTIANAMOTORS@GMAIL.com
-- **Phone**: 0759863937
-- **LinkedIn**: [Your LinkedIn Profile](#)
+🏥 4. Mathare Healthcare Booking System
+Description: Streamlining healthcare appointment bookings and patient record management.
+
+🛠️ Tech Stack:
+
+
+
+📌 Key Features:
+
+🗓️ Appointment scheduling.
+🔒 Secure patient record storage.
+🔔 Automated user notifications.
+🔗 Explore Project
+
+🚗 5. Tattiana Motors Management System
+Description: A vehicle sales platform with search and sales management capabilities.
+
+🛠️ Tech Stack:
+
+
+
+📌 Key Features:
+
+🚙 Vehicle showcase with search functionality.
+💼 Sales tracking tools.
+🔍 Filterable inventory.
+🔗 Explore Project
+
+🔧 Tools & Technologies
+Languages	Frameworks	Databases	Payment Integration
+PHP, JavaScript, HTML, CSS	Bootstrap	MySQL	M-Pesa STK Push
+👨‍💻 About Me
+Hi! I'm Brian Mayega, a tech enthusiast passionate about practical software solutions. I'm currently pursuing a Bachelor's in Information Technology at the University of the People.
+
+💼 Aspiring COO and Product Manager!
+
+📫 Contact
+📧 Email: TATTIANAMOTORS@GMAIL.com
+📱 Phone: +254 759 863 937
+Feel free to connect and collaborate!
+
+📜 License
+This repository is licensed under the MIT License.
+
+✅ What’s next?
+ Add more case studies with screenshots.
+ Create live demos for the projects.
+ Enhance documentation with flowcharts and UML diagrams.
+This updated design adds a professional, visually attractive touch to your portfolio. Would you like any additional enhancements, such as live project links or a PDF version?
