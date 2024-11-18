@@ -1,71 +1,85 @@
-# Hello, I'm Brian Mayega
-<a href="https://www.linkedin.com/in/brian-mayega-390782194/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 🚀 Brian Mayega Portfolio
 
+Welcome to my portfolio repository! This space showcases the projects I've worked on, highlighting my skills in **software development**, **IT systems**, and **web application creation**.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+## 🌟 Featured Projects
 
-## Objective
-My journey in Information Technology has fueled a deep passion for cybersecurity. With a solid background in data analytics, software development, and IT support, I am confidently transitioning into the cybersecurity field. I am driven by the challenge of safeguarding digital assets and ensuring secure operations, and I am eager to contribute my skills and expertise to meaningful projects and initiatives.
+### 1. [Online Railway Reservation System (ORRS)](./ORRS)
+**Description**: A system designed to streamline railway seat reservations, integrating an M-Pesa STK push payment system.
 
-## Skills
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/BreenMayega/Detection-lab/blob/main/README.md">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/BreenMayega/Detection-lab/blob/main/README.md">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab||
+- **Tech Stack**: PHP, JavaScript, MySQL, HTML, CSS.
+- **Key Features**:
+  - Secure seat booking system.
+  - Real-time seat availability updates.
+  - Integrated M-Pesa payment gateway.
 
-## Tools
-<img src="https://img.shields.io/badge/-XAMPP-FB7A24?&style=for-the-badge&logo=xampp&logoColor=white" />
+---
 
-#Programming Languages and Technologies:
+### 2. [Memo Management System (ODPP)](./MemoManagementSystem)
+**Description**: A management system for creating, organizing, and tracking memos at ODPP, developed using Google Apps Script.
 
-<img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/-JSON-000000?&style=for-the-badge&logo=json&logoColor=white" />
-<img src="https://img.shields.io/badge/-HTML-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/-PHP-777BB4?&style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
+- **Tech Stack**: Google Apps Script, JavaScript, HTML.
+- **Key Features**:
+  - User-friendly interface for memo creation.
+  - Integration of Material Icons, SVG illustrations, and modern design elements.
+  - Lightweight and responsive front-end.
 
-System Protocols and Security Features:
+---
 
-<img src="https://img.shields.io/badge/-Data%20Encryption-FF8C00?&style=for-the-badge&logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/-Access%20Control-2C2D72?&style=for-the-badge&logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/-RBAC-8B008B?&style=for-the-badge&logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/-Audit%20Trails-4B0082?&style=for-the-badge&logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/-Secure%20Authentication-228B22?&style=for-the-badge&logo=security&logoColor=white" />
+### 3. [Billing System](./BillingSystem)
+**Description**: A billing management system designed to streamline invoice creation, payments, and customer billing operations.
 
+- **Tech Stack**: PHP, MySQL, HTML, CSS, JavaScript.
+- **Key Features**:
+  - Generate itemized invoices with dynamic calculations.
+  - Manage customer profiles and payment records.
+  - Intuitive dashboard for tracking payments and outstanding balances.
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+---
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+### 4. [Mathare Healthcare Booking System](./MathareHealthcare)
+**Description**: A healthcare management system enabling efficient booking and patient management.
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+- **Tech Stack**: PHP, MySQL, JavaScript.
+- **Key Features**:
+  - Intuitive booking interface.
+  - Secure database management.
+  - Automated notifications for users.
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-IBM-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Project%20Management-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+---
 
-</div>
+### 5. [Tattiana Motors Management System](./TattianaMotors)
+**Description**: A vehicle sales management system with showroom and website functionalities.
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+- **Tech Stack**: PHP, MySQL, HTML, CSS, Bootstrap.
+- **Key Features**:
+  - Searchable vehicle inventory.
+  - Intuitive UI/UX for vehicle showcase.
+  - Sales tracking and management.
+
+---
+
+## 📌 Other Notable Projects
+- **COVID-19 Testing Management System**: Streamlining test management processes.
+- **AutoQuest Pre-Owned Car Showroom System**: A modern solution for showcasing pre-owned cars.
+- **Remote IT Support System**: Supporting IT operations for government entities.
+
+---
+
+## 🔧 Tools & Technologies
+- **Languages**: PHP, JavaScript, HTML, CSS, JSON.
+- **Frameworks**: Bootstrap.
+- **Database**: MySQL.
+- **Payment Integration**: M-Pesa STK Push.
+
+---
+
+## 👨‍💻 About Me
+Hi, I'm Brian Mayega, a passionate **IT enthusiast** specialising in developing practical software solutions. I'm currently pursuing a Bachelor's degree in **Information Technology** at the **University of the People**.
+
+---
+
+## 📫 Contact
+- **Email**: TATTIANAMOTORS@GMAIL.com
+- **Phone**: 0759863937
+- **LinkedIn**: [Your LinkedIn Profile](#)
